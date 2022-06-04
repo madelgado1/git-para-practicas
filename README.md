@@ -8,4 +8,10 @@ Esto es una práctica de Git
 - Enviar los cambios a GitHub (git pull)
 
 Ya lo tenemos!
+Ahora probamos desde la linea de comandos
+
+- git status
+- git add . (guarda los cambios en loca pero hay que mandarlo a github)
+- git commit -m 'comentario' (le damos titulo a los cambios en nuestro caso ponemos mandado desde consola)
+- git push (Enviamos los cambios al repositorio de github)
 
